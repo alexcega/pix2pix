@@ -1,0 +1,14 @@
+/data/*
+x.png
+y.png
+archive.zip
+/__pycache__/*
+/evaluation/*
+!evaluation/y_gen_1.png
+!evaluation/y_gen_150.png
+!evaluation/y_gen_300.png
+!evaluation/y_gen_499.png
+!evaluation/input_1.png
+!evaluation/input_150.png
+!evaluation/input_300.png
+!evaluation/input_499.png
